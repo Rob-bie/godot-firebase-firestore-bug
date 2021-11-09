@@ -4,6 +4,10 @@
 
 Firestore requests sometimes return response code `404` and it completely blows up. More information can be found in [this issue](https://github.com/GodotNuts/GodotFirebase/issues/257). There is also additional discussion about this in the `#questions-answers` channel on the godot-firebase Discord.
 
+### Godot version
+
+`v3.4.stable.official [206ba70f4]`
+
 ### Device
 
 ```
